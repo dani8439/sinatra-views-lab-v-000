@@ -10,4 +10,7 @@ class App < Sinatra::Base
 	get '/goodbye' do
 	end
 
+	get '/date' do 
+	end
+
 end
